@@ -1,0 +1,5 @@
+*.bak
+bin/
+pkg/
+src/
+drone-rancher-compose
